@@ -1,0 +1,1 @@
+chao@Asclepius:~/rnaseq/dexTcYoungVsOld_2/alignments$ featureCounts -T 30 -p -o //home/chao/rnaseq/dexTcYoungVsOld_2//quantification//featurecounts_dedup.txt -a /lib/GenomeRefs/Homo_sapiens/Ensembl/GRCh38/Annotation/Genes/genes.gtf *.bam
